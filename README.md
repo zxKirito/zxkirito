@@ -10,5 +10,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zxkirito&show_icons=true&locale=en&layout=compact" alt="zxkirito" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zxkirito&show_icons=true&locale=en" alt="zxkirito" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zxkirito&" alt="zxkirito" /></p>
